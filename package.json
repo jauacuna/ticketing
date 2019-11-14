@@ -1,7 +1,7 @@
 {
-  "name": "healthbot-container",
+  "name": "healthbot",
   "version": "1.0.0",
-  "description": "A simple web page to handoff users to the Microsoft Health bot",
+  "description": "",
   "main": "server.js",
   "license": "MIT",
   "repository": "https://github.com/jauacuna/voltesfive.git",
